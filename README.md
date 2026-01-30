@@ -2,8 +2,7 @@
 
 **`Desenvolvedora Front-end`**
 
-Me chamo Genifer Gonzalez, tenho 32 anos e resido em São Paulo/BR. Sou formada em Tecnologia da Informação pela UNIVESP. 
-
+Me chamo Genifer Gonzalez, sou formada em Tecnologia da Informação pela UNIVESP, atuo como dev front-end e resido em São Paulo/BR. 
 <p align="left">
   <a href="https://www.linkedin.com/in/genifer-gonzalez/"><img width="32px" alt="LinkedIn" title="LinkedIn" src="https://i.imgur.com/yRpa1dQ.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
@@ -111,16 +110,16 @@ Me chamo Genifer Gonzalez, tenho 32 anos e resido em São Paulo/BR. Sou formada 
 <br/>
 <br/>
 
-  ### 📊 Estat~istica e atividades
+  ### 📊 Estatística e atividades
 
   <h3>🔥 Streak Stats</h3>
   <p>
       <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="GeniferGonzalezSantos's streak" src="https://github-readme-streak-stats-eight.vercel.app/?user=GeniferGonzalezSantos&theme=monokai-metallian&hide_border=true&short_numbers=true"/>
     </a>
   </p>
-<b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
+<b>Nota:</b> "Principais linguagens" é apenas uma métrica das linguagens que meu código público utiliza e não reflete experiência ou nível de habilidade.
 <br/>
-<br/>
+<!-- <br/>
     <img 
     align="left" 
     alt="GitHub Stats" 
@@ -134,12 +133,11 @@ Me chamo Genifer Gonzalez, tenho 32 anos e resido em São Paulo/BR. Sou formada 
       alt="GitHub Stats" 
       height="200"
       style="padding-right: 10px;" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=GeniferGonzalezSantos&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+      src="[https://github-readme-stats.vercel.app/api/top-langs/?username=GeniferGonzalezSantos&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9](https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="GeniferGonzalezSantos's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=GeniferGonzalezSantos&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true)" 
   />
+<br/> -->
 
-<br/>
-<br/>
-  
+
   
 
 
